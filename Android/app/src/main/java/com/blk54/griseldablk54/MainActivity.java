@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         GriseldaMemeber BennyTheButcher = new GriseldaMemeber();
         GriseldaMemeber ConwayTheMachine = new GriseldaMemeber();
         GriseldaMemeber WestsideGunn = new GriseldaMemeber();
+        GriseldaMemeber Daringer = new GriseldaMemeber();
     }
 }
